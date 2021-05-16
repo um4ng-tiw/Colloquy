@@ -84,6 +84,7 @@ Contributions are what make the open source community such an amazing place to b
 [react-shield]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 [node-shield]:https://img.shields.io/badge/-Nodejs-green?logo=node.js&logoColor=white&style=for-the-badge
 [socket.io-shield]:https://img.shields.io/badge/-Socket.io-grey?logo=socket.io&logoColor=white&style=for-the-badge
+[instagram-shield]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
 [webrtc-shield]: https://img.shields.io/badge/-WEBRTC-orange?logo=webrtc&logoColor=white&style=for-the-badge
 [simple-peer]: https://img.shields.io/badge/-simple%20peer-blue?logo=npm&logoColor=white&style=for-the-badge
