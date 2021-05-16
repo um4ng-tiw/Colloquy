@@ -18,7 +18,7 @@ Colloquy is a web based chat application that allows user to perform private tex
 * WebRTC and Simple peer package is used to incorporate the private video chat feature in the application.
 
 ### Prerequisites
-The application doesn't require any prerequisites if its a hosted version. However to run the project from the system make sure your have Node.js installed on your system.
+The application doesn't require any prerequisites if its a hosted version. However to run the project from the system make sure you have Node.js installed on your system.
 
 ### Execution guide
 
