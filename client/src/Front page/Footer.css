@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-footer {
+  background-color: #282222;
+  height: 25vh;
+  text-align: center;
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.footer-content {
+  padding-top: 100px;
+}

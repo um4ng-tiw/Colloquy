@@ -1,0 +1,23 @@
+.chat-list-element {
+  width: 17rem;
+  padding: 16px;
+  /* cursor: pointer; */
+  background-color: #282a3f;
+  color: white;
+  transition: 0.5s ease-out;
+}
+
+.chat-list-element:hover {
+  background-color: #6665ff;
+}
+
+.chat-list-element-container {
+  width: 100%;
+  margin: 0 auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.user-element {
+  cursor: pointer;
+}

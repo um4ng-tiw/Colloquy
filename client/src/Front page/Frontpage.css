@@ -1,0 +1,82 @@
+* {
+  font-family: "Merriweather", serif;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.NavBar {
+  height: 75vh;
+  font-size: 2rem;
+  color: white;
+  background-color: #282222;
+}
+
+.Nav-logo {
+  height: 4rem;
+  position: absolute;
+  margin-top: 0.5rem;
+}
+
+.main-logo {
+  height: 30%;
+  padding: 100px;
+  position: absolute;
+}
+
+.main-logo-div {
+  display: flex;
+  justify-content: center;
+}
+
+.main-text {
+  position: absolute;
+  margin-top: 20rem;
+}
+
+.Particles {
+  height: 80vh;
+}
+
+.button-1 {
+  position: absolute;
+  margin-top: 23rem;
+  font-size: 12px;
+  width: 250px;
+  height: 30px;
+  border-radius: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  transition: 0.7s ease-out;
+}
+
+.rule {
+  position: absolute;
+  margin-top: 26rem;
+  background-color: white;
+  width: 50vh;
+}
+
+.learn-more {
+  position: absolute;
+  margin-top: 28rem;
+}
+
+.container {
+  height: 75vh;
+  overflow: hidden;
+}
+
+.g-icon {
+  display: inline-flex;
+  align-items: baseline;
+  display: inline;
+  height: 60%;
+  padding-right: 10px;
+}
+
+.button-1:hover {
+  background-color: #44d096;
+}

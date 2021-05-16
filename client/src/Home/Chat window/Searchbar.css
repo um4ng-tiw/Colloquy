@@ -1,0 +1,18 @@
+.search-user-bar-container {
+  background-color: #282a3f;
+  padding: 12px;
+  width: 17.7rem;
+}
+
+.search-bar {
+  text-align: center;
+  margin: 0 auto;
+  width: 17rem;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 12px;
+}
+
+input:focus {
+  outline: none;
+}

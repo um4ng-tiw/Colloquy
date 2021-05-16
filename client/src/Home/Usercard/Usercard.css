@@ -1,0 +1,50 @@
+.profile-pic {
+  padding: 10px;
+  width: 2.5rem;
+  height: auto;
+  border-radius: 50%;
+}
+
+.user-card-container {
+  /* width: fit-content; */
+  width: 13.5rem;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+  padding-bottom: 10px;
+  padding-right: 90px;
+  background-color: #282a3f;
+  border-top-left-radius: 10px;
+}
+
+.user-text {
+  padding: 13px;
+  margin-left: 0;
+  color: white;
+}
+
+.user-id {
+  font-size: 12px;
+}
+
+.image-div {
+  padding-right: 10px;
+}
+
+.logout-button {
+  margin-left: 100px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.logout-icon {
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* .logout-icon:hover {
+  cursor: pointer;
+} */

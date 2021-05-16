@@ -1,0 +1,7 @@
+.Side-panel {
+  text-align: left;
+  width: fit-content;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
