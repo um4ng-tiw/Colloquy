@@ -45,6 +45,39 @@ The application doesn't require any prerequisites if its a hosted version. Howev
   ```
 
 ## Usage
+### Landing Page
+![1]
+
+### Login
+![2]
+
+### Private Chat
+![3]
+
+### Private Video Calling
+![4]
+
+### Logging Out
+![5]
+
+### Retrieving Database Messages
+![6]
+
+### Emojis
+![7]
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Contact
+[![instagram-shield]][instagram]  [![linkedin-shield]][linkedin]
+
 
 <!-- Links -->
 [landing_page_screenshot]: ./Screenshots/landing.PNG
@@ -58,3 +91,10 @@ The application doesn't require any prerequisites if its a hosted version. Howev
 [express-shield]: https://img.shields.io/badge/-Express-EBD81C?logo=express&logoColor=black&style=for-the-badge
 [linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [instagram]:https://www.instagram.com/oxy.moronguy/
+[1]: ./Screenshots/1.gif
+[2]: ./Screenshots/2.gif
+[3]: ./Screenshots/3.gif
+[4]: ./Screenshots/4.gif
+[5]: ./Screenshots/5.gif
+[6]: ./Screenshots/6.gif
+[7]: ./Screenshots/7.gif
