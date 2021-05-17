@@ -1,4 +1,4 @@
-# Colloquy Chat Application
+# 💬 Colloquy Chat Application
 
 
 ### About the project
@@ -8,7 +8,7 @@
 
 Colloquy is a web based chat application that allows user to perform private text chat as well as private video chat directly from the browser without the use of any external plugin or software installation. The UI has been designed to be simple and easy to use for the novice computer users.
 
-### Built With
+### 🔧 Built With
 ![mongodb-shield] ![express-shield] ![react-shield] ![node-shield] ![socket.io-shield] ![webrtc-shield] ![simple-peer]  
 
 * The frontend or the client side has been built using React.
@@ -17,10 +17,10 @@ Colloquy is a web based chat application that allows user to perform private tex
 * MongoDB is used as the database solution to store the chat messages
 * WebRTC and Simple peer package is used to incorporate the private video chat feature in the application.
 
-### Prerequisites
+### 🐣 Prerequisites
 The application doesn't require any prerequisites if its a hosted version. However to run the project from the system make sure you have Node.js installed on your system.
 
-### Execution guide
+### ⚡ Execution guide
 
 #### Server side first
 1. Download the contents of the repository
@@ -44,7 +44,7 @@ The application doesn't require any prerequisites if its a hosted version. Howev
   npm run start
   ```
 
-## Usage
+## 👨‍💻 Usage
 ### Landing Page
 ![1]
 
@@ -66,7 +66,7 @@ The application doesn't require any prerequisites if its a hosted version. Howev
 ### Emojis
 ![7]
 
-## Contributing
+## 🤝 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -75,7 +75,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contact
+## 📝 Contact
 [![instagram-shield]][instagram]  [![linkedin-shield]][linkedin]
 
 
